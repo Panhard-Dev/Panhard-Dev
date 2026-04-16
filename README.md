@@ -1,14 +1,12 @@
-# Gabriel - Founder & Lead Architect
-
 <div align="center">
-  <img src="header-banner.png" width="100%" />
+  <img src="image.png" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>🚀 "Transformando ideias em ecossistemas, e código em infraestrutura."</h3>
-  <p>Explorador da interseção entre o <b>Business</b> e a <b>Engenharia de Software</b>. Criador de tecnologias independentes e apaixonado por arquiteturas originais.</p>
+  <p>"Transformando ideias em ecossistemas, e código em infraestrutura."</p>
+  <p>Explorador da interseção entre o Business e a Engenharia de Software. Criador de tecnologias independentes e apaixonado por arquiteturas originais.</p>
 </div>
 
 <hr />

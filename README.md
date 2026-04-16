@@ -1,7 +1,7 @@
 # Gabriel - Founder & Lead Architect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=GABRIEL&fontSize=80&animation=twinkling&fontAlignY=35&desc=Entrepreneur%20•%20Founder%20•%20Architect&descAlignY=60&descFontSize=25&fontColor=ffffff" width="100%" />
+  <img src="header-banner.png" width="100%" />
 </div>
 
 <br />
@@ -68,7 +68,7 @@ Não me contento com o que já existe. Estou desenvolvendo a **Ae**, uma linguag
   <a href="https://www.linkedin.com/in/gabriel-oliveira-1707b6401/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contato@lizai.studio">
+  <a href="mailto:gabrielluxpanhard@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://liziabr.qzz.io/" target="_blank">

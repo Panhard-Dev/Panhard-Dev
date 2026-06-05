@@ -208,36 +208,7 @@ Testes Manuais  •  Deploy  •  Lógica de Programação  •  Segurança Bás
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Panhard-Dev">
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Panhard-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/Panhard-Dev">
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Panhard-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/Panhard-Dev">
-    <img src="https://streak-stats.demolab.com?user=Panhard-Dev&theme=tokyonight&hide_border=true&locale=pt_BR" width="55%" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panhard-Dev&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Panhard-Dev/Panhard-Dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Panhard-Dev/Panhard-Dev/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Panhard-Dev/Panhard-Dev/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
